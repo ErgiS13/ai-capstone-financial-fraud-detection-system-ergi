@@ -1,0 +1,11 @@
+﻿input_text,model_1_sentiment_label,model_1_sentiment_score,model_2_zeroshot_label ,model_2_zeroshot_score,model_3_ner_entities,model_4_groq_classification,notes,tested_at
+"Unauthorized login from IP 198.51.100.4 at 3:47 AM — multiple failed attempts
+preceded this
+",,0.0000,,0.0,, tested_at → 2026-03-22T14:35:13.060Z,,3/19/2026 1:35pm
+Routine firewall rule update completed on fw-01 during scheduled maintenance window,NEGATIVE,0.9986,routine activity,1.0,,"INFORMATIONAL. There is no indication of a security breach or issue, as the activity was part of a scheduled maintenance window.",,3/19/2026 1:35pm
+Phishing email detected targeting finance@company.com — spoofed sender domain,NEGATIVE,0.9968,possible anomaly,0.8,,HIGH - A phishing email targeting a high-value account such as finance@company.com with a spoofed sender domain poses a significant risk of financial loss or data compromise.,,3/19/2026 1:35pm
+"Multiple failed SSH authentication attempts from external IP — 47 attempts in 5
+minutes",,0.0000,,0.0,, tested_at → 2026-03-22T14:35:00.306Z,,3/21/2026 9:57pm
+"System resource utilization normal across all monitored hosts — no anomalies
+detected
+",,0.0000,,0.0,, tested_at → 2026-03-22T14:35:06.617Z,,3/19/2026 1:35pm
