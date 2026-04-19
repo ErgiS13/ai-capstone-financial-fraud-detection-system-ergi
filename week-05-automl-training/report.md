@@ -1,7 +1,7 @@
 # Week 5 Report: AutoML Training & Fine-Tuned Model Evaluation
 
 **Name:** Ergi Sula
-**Date:** [Today’s Date]
+**Date:** 04/19/2026
 **Capstone Project:** AI Financial Fraud Detection System
 **My Component:** Transaction Ingestion
 
