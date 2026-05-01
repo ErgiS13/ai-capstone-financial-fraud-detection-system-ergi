@@ -1,0 +1,11 @@
+﻿input_text,model_1_sentiment_label,model_1_sentiment_score,model_2_zeroshot_label ,model_2_zeroshot_score,model_3_ner_entities,model_4_groq_classification,notes,tested_at
+Unauthorized login from IP 198.51.100.4 at 3:47 AM — multiple failed attempts preceded this,NEGATIVE,0.9994,fraudulent activity,0.8,{},"HIGH 
+A potential unauthorized login attempt from an unknown IP, potentially resulting from a brute-force attack, warrants attention due to the risk of compromised credentials.",,3/19/2026 1:35pm
+Routine firewall rule update completed on fw-01 during scheduled maintenance window,NEGATIVE,0.9986,routine transaction,0.9,{},"INFORMATIONAL: 
+This alert is informational in nature as it reports a routine maintenance activity with no evidence of security incidents or system failures.",,3/19/2026 1:35pm
+Phishing email detected targeting finance@company.com — spoofed sender domain,NEGATIVE,0.9968,fraudulent activity,0.9,{},HIGH: A phishing email targeting a critical email address (finance@company.com) could potentially lead to significant financial loss or compromise sensitive data if the employees are tricked into responding or disclosing sensitive information.,,3/19/2026 1:35pm
+Multiple failed SSH authentication attempts from external IP — 47 attempts in 5 minutes,NEGATIVE,0.9993,requires review,1.0,"{""error"":""The value in the \""JSON Body\"" field is not valid JSON""}","CRITICAL
+The alert indicates a high volume of failed login attempts from an external source, suggesting a potential brute force attack on the SSH service.",,3/21/2026 9:57pm
+System resource utilization normal across all monitored hosts — no anomalies detected,NEGATIVE,0.9880,requires review,0.5,{},"INFORMATIONAL
+
+This alert is informational because system resource utilization has been normal with no detected anomalies, indicating no immediate security concerns to address.",,3/19/2026 1:35pm
