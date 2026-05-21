@@ -1,3 +1,7 @@
+## Demo Video
+[SentinelIQ - AI-Powered Financial Fraud Detection System Demo](https://youtu.be/4R_ZzkkCM54)
+
+
 # Financial Fraud Detection System
 
 ## Team Members
