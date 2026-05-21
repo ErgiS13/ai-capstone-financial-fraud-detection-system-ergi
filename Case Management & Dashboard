@@ -1,5 +1,5 @@
 Case Management & Dashboard
-Owner: Andrew Skoblov
+Owner: Ergi Sula
 Description
 Creates investigation cases for high-risk transactions and provides a Streamlit dashboard for analysts to review the fraud alert queue, update case statuses, and view trend analytics.
 Status
